@@ -10,7 +10,8 @@ function App() {
   return (
 <div className="demo-big-contentLay">
     <Layout>
-        <Header title="Farm App" scroll>
+        <Header className="header-color" title="Farm App" scroll>
+            
             <Navigation>
                 <Link to="/">Bei Sokoni</Link>
                 <Link to="/about">About</Link>

@@ -4,7 +4,7 @@ class Login extends Component{
     render(){
         return(
             <div>
-                <h1>Login Page</h1>
+                <h5>Please Provide your Username and Password</h5>
             </div>
         )
     }
