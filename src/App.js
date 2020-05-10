@@ -1,11 +1,11 @@
 import React from 'react';
-import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
+import { Layout, Header, Navigation, Content } from 'react-mdl';
 
 import './App.css';
 
 function App() {
   return (
-<div className="demo-big-content">
+<div className="demo-big-contentLay">
     <Layout>
         <Header title="Farm App" scroll>
             <Navigation>
